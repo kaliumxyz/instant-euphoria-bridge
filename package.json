@@ -1,0 +1,27 @@
+{
+  "name": "euphoria-instant-bridge",
+  "version": "0.1.0",
+  "description": "A simple connection lib for euphoria.",
+  "main": "index.js",
+  "repository": "https://github.com/kaliumxyz/euphoria-instant-bridge",
+  "author": "kalium",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "euphoria-connection": "^0.6.0",
+    "euphoria.js": "^1.0.3",
+    "instant-connection": "^0.3.4"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0"
+  },
+  "keywords": [
+    "euphoria",
+    "euphoria.io",
+    "websocket",
+    "magic"
+  ],
+  "scripts": {
+    "test": "ava"
+  }
+}
