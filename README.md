@@ -1,10 +1,10 @@
 # euphoria-instant-bridge [![Build Status](https://travis-ci.org/kaliumxyz/euphoria-connection.svg?branch=master)](https://travis-ci.org/kaliumxyz/euphoria-connection)
-> make connections to [euphoria.io](https://euphoria.io/) :D.
+> make connections to [euphoria.io](https://euphoria.io/) on instant :D.
 
 ## install
 clone the repo and run yarn or NPM
 ```
-$ yarn install
+$ yarn install euphoria-instant-bridge
 ```
 
 ## tests
