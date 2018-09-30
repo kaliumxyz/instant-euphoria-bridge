@@ -1,21 +1,11 @@
-# euphoria-connection [![Build Status](https://travis-ci.org/kaliumxyz/euphoria-connection.svg?branch=master)](https://travis-ci.org/kaliumxyz/euphoria-connection)
+# euphoria-instant-bridge [![Build Status](https://travis-ci.org/kaliumxyz/euphoria-connection.svg?branch=master)](https://travis-ci.org/kaliumxyz/euphoria-connection)
 > make connections to [euphoria.io](https://euphoria.io/) :D.
 
 ## install
-simply download it from npm.
+clone the repo and run yarn or NPM
 ```
-$ yarn add euphoria-connection
+$ yarn install
 ```
-
-
-## usage
-Require it and you can proceed to create new connections :D.
-```js
-const euphoriaConnection = require('euphoria-connection')
-const connection = new euphoriaConnection()
-```
-
-connections will default to the &test room. Once you've created a connection you can send data over it with the send() method.
 
 ## tests
 ```
